@@ -105,3 +105,30 @@ a {
     color-scheme: dark;
   }
 }
+.form {
+  padding-top: 50px;
+}
+.btn {
+  height: 5vh;
+  width: 150px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: green;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.copy {
+  display: flex;
+  gap: 25px;
+}
+.btn-copy {
+  height: 4vh;
+  width: 80px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: red;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
