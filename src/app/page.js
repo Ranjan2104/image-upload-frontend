@@ -58,7 +58,7 @@ export default function Home() {
       </div>
       <br />
       <br />
-        {{url}}
+        <div>{ url }</div>
     </main>
   );
 }
