@@ -57,18 +57,7 @@ export default function Home() {
         )}
       </div>
       <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      // {show && (
-      //   <div className="copy">
-      //     <h3>Your URL is {url}</h3>
-      //     <button className="btn-copy" onClick={hanldeCopy}>
-      //       Copy
-      //     </button>
-      //   </div>
-      // )}
+      <br /?
     </main>
   );
 }
