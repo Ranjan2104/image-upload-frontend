@@ -43,7 +43,7 @@ export default function Home() {
 
   return (
     <main className={styles.main}>
-      <h1>Upload your QR Code</h1>
+      <h1>Upload your Images Here</h1>
       <div className="form">
         <input type="file" onChange={(e) => setImgData(e.target.files[0])} />
         {isDisable ? (
